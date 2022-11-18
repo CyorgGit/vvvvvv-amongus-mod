@@ -13,24 +13,27 @@ which has VVVVVV installed.
 How to install
 ------------------
 
-1. Make a backup of your data.zip folder, rename it to whatever you want, 
+1. Extract the "SUS.zip" archive. I'm assuming you already have because you're
+reading this. 
+
+2. Make a backup of your data.zip folder, rename it to whatever you want, 
 and copy and paste it so you get a new folder.
 
-2. Rename the new "data.zip" folder.
+3. Rename the new "data.zip" folder.
 
-3. Copy the "sprites.png" image.
+4. Copy the "sprites.png" image from the "SUS" folder.
 
-4. Go to "data.zip/graphics".
+5. Go to "data.zip/graphics".
 
-5. Delete the old "sprites.png".
+6. Delete the old "sprites.png".
 
-6. Paste the "sprites.png" you copied earlier
+7. Paste the "sprites.png" you copied earlier
 
-7. Launch "VVVVVV.exe" in the root directory of the game.
+8. Launch "VVVVVV.exe" in the root directory of the game.
 
-8. Continue your save or start a new one.
+9. Continue your save or start a new one.
 
-9. Suffer.
+10. Suffer.
 
 
 How to uninstall
