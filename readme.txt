@@ -1,3 +1,5 @@
+ReadME for the PC Version 'cause I'm too lazy to add the Vita instructions:
+
 Hello, thanks for installing my sussy mod.
 
 Showcase: https://youtu.be/dHI2eunhPBg
